@@ -1,1 +1,1 @@
-# udem-deep-learning
+# udemi-deep-learning
